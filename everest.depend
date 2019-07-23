@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1563195253 source:c:\users\ryzen\documents\everest\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1563715698 source:b:\tugas uwp\algotik 2\apliksi pemesanan kamar hotel\everest\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
